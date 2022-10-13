@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -eF root
+grep -e root
