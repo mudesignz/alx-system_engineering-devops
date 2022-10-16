@@ -1,2 +1,2 @@
 #!/bin/bash 
-alias PATH=$OLDPWD/action
+export PATH=$OLDPWD/action
