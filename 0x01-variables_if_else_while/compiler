@@ -1,5 +1,0 @@
-#!/bin/bash
-echo "enter file name you wish to compile:\n"
-read fname
-gcc $fname.c -o $fname
-./$fname
